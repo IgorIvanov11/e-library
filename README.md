@@ -3,4 +3,4 @@ A digital library site that I made in 2 days as a project work at university. I 
 To run this site on your computer, download XAMPP (run Apache and MySQL). Put the whole project structure in \Program Files\XAMPP\htdocs 
 Then go to: localhost in your browser. Run PHP My Admin and import the database from the db folder (or create your own).
 
-The upload folder (it is empty) will store books that users will upload to the site.
+Create an empty folder inside the project and name it upload. It will store books that users will upload to the site.
